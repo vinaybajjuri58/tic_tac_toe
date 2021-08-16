@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  width: 5rem;
+  height: 5rem;
+}
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 15rem;
+  margin: auto auto;
+}
